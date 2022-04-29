@@ -1,0 +1,18 @@
+body{
+    background: rgb(0,0,0);
+    background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(6,0,112,1) 100%);
+    color: whitesmoke;
+}
+
+#select{
+    width: 30%;
+}
+
+.form-control{
+    width: 30%;
+}
+
+.form{
+    text-align: center;
+    margin-top: 120px;
+}
